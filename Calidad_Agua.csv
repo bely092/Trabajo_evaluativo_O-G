@@ -1,0 +1,170 @@
+sitios,fecha,tem_agua,tem_aire,od,ph,dbo_mg_l,dqo_mg_l,turbiedad_ntu
+Canal Villanueva y Río Luján,22/2/2023,26.0,24.0,6.59,7.24,2.0,30.0,29.0
+Río Lujan y Arroyo Caraguatá,22/2/2023,26.8,25.0,5.94,6.96,2.1,30.0,24.0
+Canal Aliviador y Río Lujan,22/2/2023,27.6,24.0,6.14,6.88,4.1,30.0,21.0
+Río Carapachay y Arroyo Gallo Fiambre,22/2/2023,26.1,25.0,5.02,6.82,2.2,30.0,28.0
+Río Reconquista y Río Lujan,22/2/2023,25.9,24.0,5.28,6.69,3.3,30.0,24.0
+Rio Tigre 100m antes del Rio Luján,22/2/2023,25.2,24.0,5.02,6.4,4.3,30.0,20.0
+Río Lujan y Canal San Fernando,22/2/2023,29.4,29.0,3.45,6.83,3.5,30.0,6.0
+Río Capitán y Río San Antonio,22/2/2023,28.5,29.0,6.7,7.04,2.0,30.0,28.0
+Arroyo Abra Vieja y Santa Rosa,22/2/2023,28.0,29.0,5.19,6.91,2.0,30.0,45.0
+Del Arca,22/2/2023,26.0,14.0,5.65,,2.1,30.0,21.0
+Espigón La Farola,22/2/2023,,,,,,,
+Reserva Ecológica,22/2/2023,28.0,27.0,6.5,6.0,3.1,52.0,20.0
+Playa Espigón de Pacheco,22/2/2023,28.7,30.0,8.53,6.95,2.5,30.0,24.0
+Perú Puente,22/2/2023,,,,,,,
+Reserva Barrio El Ceibo,22/2/2023,25.9,28.0,8.27,7.24,4.1,30.0,16.0
+Puerto de Olivos Espigón,22/2/2023,25.5,28.0,6.79,6.6,3.0,57.0,15.0
+Costa y Melo,22/2/2023,24.0,28.0,7.41,6.58,4.9,30.0,14.0
+Parque de los Niños,22/2/2023,27.8,,8.0,7.7,7.0,50.0,33.0
+Costanera Norte - Espigón Abanico,22/2/2023,25.2,,6.4,7.3,,50.0,50.0
+Club de Pescadores,22/2/2023,26.4,,7.9,7.7,6.0,50.0,65.0
+Reserva Ecológica Costanera Sur - Playita,22/2/2023,25.6,,8.4,7.8,17.0,50.0,66.0
+Escollera de Propaneros,22/2/2023,24.69,25.0,3.03,7.0,4.9,30.0,23.0
+Polo Petroquímico Dock Sud,22/2/2023,23.87,26.0,4.85,7.23,2.6,30.0,27.0
+Arroyo Sarandí,22/2/2023,24.2,26.0,4.99,7.36,3.5,30.0,23.0
+Costa de Villa Domínico,22/2/2023,24.5,26.0,3.02,7.45,5.3,30.0,21.0
+Arroyo Santo Domingo,22/2/2023,24.6,26.0,1.99,7.5,4.5,30.0,21.0
+Espora 400 m,22/2/2023,25.3,28.0,6.82,5.32,6.3,30.0,23.0
+Náutico 400 m,22/2/2023,25.0,28.0,6.3,5.31,3.2,30.0,35.0
+Pejerrey Club 400 m,22/2/2023,25.0,28.0,7.23,6.32,2.7,30.0,38.0
+Calle 14 y Costa - Salida cloaca,22/2/2023,,24.0,,,17.0,120.0,150.0
+Puerto Trinidad calle 47,22/2/2023,,26.0,,,6.5,59.0,140.0
+Costanera Hudson Calle 63,22/2/2023,,28.0,,,7.6,96.0,120.0
+Boca Cerrada (Res.Nat. Punta Lara),22/2/2023,,24.0,,,4.1,38.0,80.0
+Camping Eva Perón,22/2/2023,25.4,25.0,11.49,9.59,3.5,30.0,60.0
+Toma de agua Club de Pesca,22/2/2023,24.2,25.0,7.13,8.69,11.0,230.0,432.0
+Arroyo El Gato,22/2/2023,24.4,25.0,2.68,7.82,12.0,90.0,65.0
+Ensenada Prefectura Isla Santiago,22/2/2023,22.8,25.0,6.13,8.07,3.2,40.0,27.0
+Balneario Palo Blanco,22/2/2023,22.0,25.0,6.24,7.75,3.8,30.0,30.0
+Diagonal 66 (descarga cloaca),22/2/2023,22.0,25.0,5.92,7.96,4.8,30.0,2.9
+Playa La Bagliardi,22/2/2023,21.0,25.0,6.65,7.76,3.3,70.0,13.0
+Balneario Municipal,22/2/2023,20.0,24.0,7.53,8.21,3.7,59.0,95.0
+Playa La Balandra,22/2/2023,20.0,23.0,5.8,7.47,3.4,58.0,17.0
+Canal Villanueva y Río Luján,10/5/2023,18.0,12.0,7.09,7.22,2.0,30.0,45.0
+Río Lujan y Arroyo Caraguatá,10/5/2023,18.0,12.0,7.12,7.22,2.0,30.0,60.0
+Canal Aliviador y Río Lujan,10/5/2023,18.0,12.0,6.16,7.33,2.0,30.0,45.0
+Río Carapachay y Arroyo Gallo Fiambre,10/5/2023,18.0,12.0,6.08,7.32,2.0,30.0,50.0
+Río Reconquista y Río Lujan,10/5/2023,18.0,12.0,5.85,7.06,2.0,30.0,45.0
+Rio Tigre 100m antes del Rio Luján,10/5/2023,19.0,11.0,5.26,7.05,3.6,30.0,45.0
+Río Lujan y Canal San Fernando,10/5/2023,18.0,15.0,5.88,7.16,2.0,30.0,50.0
+Río Capitán y Río San Antonio,10/5/2023,19.0,14.0,8.09,7.3,2.0,30.0,70.0
+Arroyo Abra Vieja y Santa Rosa,10/5/2023,18.0,14.0,7.82,7.08,2.0,30.0,65.0
+Del Arca,10/5/2023,19.0,20.0,5.85,,2.0,30.0,40.0
+Espigón La Farola,10/5/2023,,,,,,,
+Reserva Ecológica,10/5/2023,18.0,21.0,6.32,,2.0,30.0,23.0
+Playa Espigón de Pacheco,10/5/2023,18.0,22.0,5.16,,2.0,30.0,13.0
+Perú Puente,10/5/2023,20.0,22.0,3.24,,3.1,30.0,3.5
+Reserva Barrio El Ceibo,10/5/2023,18.0,16.0,6.6,6.73,2.0,30.0,14.0
+Puerto de Olivos Espigón,10/5/2023,18.0,15.0,5.2,6.74,2.0,30.0,12.0
+Costa y Melo,10/5/2023,17.0,15.0,5.57,6.85,2.0,30.0,14.0
+Parque de los Niños,10/5/2023,19.0,19.0,2.2,7.5,9.0,50.0,17.0
+Costanera Norte - Espigón Abanico,10/5/2023,18.0,18.0,6.2,7.3,,50.0,21.0
+Club de Pescadores,10/5/2023,18.0,18.0,7.6,7.4,,50.0,40.0
+Reserva Ecológica Costanera Sur - Playita,10/5/2023,18.0,18.0,7.6,7.3,7.0,50.0,68.0
+Escollera de Propaneros,10/5/2023,18.0,15.0,3.55,7.08,2.9,30.0,45.0
+Polo Petroquímico Dock Sud,10/5/2023,18.0,15.0,5.22,7.33,2.0,30.0,50.0
+Arroyo Sarandí,10/5/2023,19.0,15.0,5.24,7.48,4.2,30.0,37.0
+Costa de Villa Domínico,10/5/2023,19.0,15.0,4.45,7.48,4.1,30.0,32.0
+Arroyo Santo Domingo,10/5/2023,18.0,15.0,3.22,7.52,3.8,30.0,11.0
+Espora 400 m,10/5/2023,17.0,23.0,,7.15,2.0,30.0,60.0
+Náutico 400 m,10/5/2023,17.0,23.0,5.7,7.04,2.0,30.0,70.0
+Pejerrey Club 400 m,10/5/2023,17.0,23.0,,6.75,2.0,30.0,17.0
+Calle 14 y Costa - Salida cloaca,10/5/2023,,12.0,,,24.0,41.0,12.0
+Puerto Trinidad calle 47,10/5/2023,,14.0,,,7.9,30.0,23.0
+Costanera Hudson Calle 63,10/5/2023,,13.0,,,5.2,36.0,22.0
+Boca Cerrada (Res.Nat. Punta Lara),10/5/2023,,11.0,,,3.0,30.0,20.0
+Camping Eva Perón,10/5/2023,17.0,15.0,12.62,9.38,3.2,30.0,27.0
+Toma de agua Club de Pesca,10/5/2023,17.0,15.0,9.05,8.55,2.0,30.0,25.0
+Arroyo El Gato,10/5/2023,17.0,15.0,4.24,7.84,2.0,30.0,40.0
+Ensenada Prefectura Isla Santiago,10/5/2023,17.0,15.0,7.43,7.88,2.0,30.0,27.0
+Balneario Palo Blanco,10/5/2023,17.0,13.0,6.33,8.7,2.6,30.0,45.0
+Diagonal 66 (descarga cloaca),10/5/2023,18.0,16.0,11.7,9.39,4.8,30.0,12.0
+Playa La Bagliardi,10/5/2023,16.0,13.0,10.88,9.18,5.5,30.0,20.0
+Balneario Municipal,10/5/2023,17.0,13.0,10.02,9.04,2.0,30.0,40.0
+Playa La Balandra,10/5/2023,18.0,13.0,5.93,8.35,2.1,30.0,32.0
+Canal Villanueva y Río Luján,23/8/2023,16.3,11.0,8.53,7.27,2.0,30.0,38.0
+Río Lujan y Arroyo Caraguatá,23/8/2023,15.0,11.0,6.88,7.13,2.0,38.0,37.0
+Canal Aliviador y Río Lujan,23/8/2023,15.2,11.0,5.97,7.13,3.8,36.0,45.0
+Río Carapachay y Arroyo Gallo Fiambre,23/8/2023,15.1,11.0,5.75,7.19,4.3,37.0,39.0
+Río Reconquista y Río Lujan,23/8/2023,15.3,11.0,5.36,7.13,4.3,40.0,29.0
+Rio Tigre 100m antes del Rio Luján,23/8/2023,15.3,10.0,4.13,7.17,5.6,38.0,26.0
+Río Lujan y Canal San Fernando,23/8/2023,15.5,10.0,3.1,7.07,4.0,30.0,17.0
+Río Capitán y Río San Antonio,23/8/2023,15.8,10.0,8.72,7.39,2.0,32.0,39.0
+Arroyo Abra Vieja y Santa Rosa,23/8/2023,13.5,10.0,7.74,7.11,2.0,41.0,39.0
+Del Arca,23/8/2023,16.0,13.0,5.4,,2.0,30.0,19.0
+Espigón La Farola,23/8/2023,,,,,,,
+Reserva Ecológica,23/8/2023,13.7,14.0,7.64,,2.0,30.0,20.0
+Playa Espigón de Pacheco,23/8/2023,13.7,14.0,6.66,,4.3,30.0,4.0
+Perú Puente,23/8/2023,17.5,14.0,6.37,,2.8,30.0,21.0
+Reserva Barrio El Ceibo,23/8/2023,13.8,11.5,8.15,6.82,2.8,30.0,12.0
+Puerto de Olivos Espigón,23/8/2023,14.3,11.3,5.58,6.53,2.8,30.0,15.0
+Costa y Melo,23/8/2023,13.1,11.3,5.14,6.74,4.0,30.0,15.0
+Parque de los Niños,23/8/2023,,,,,,,
+Costanera Norte - Espigón Abanico,23/8/2023,,,,,,,
+Club de Pescadores,23/8/2023,,,,,,,
+Reserva Ecológica Costanera Sur - Playita,23/8/2023,,,,,,,
+Cuatro bocas- desembocadura del Riachuelo,23/8/2023,15.21,13.0,0.6,7.29,,37.0,16.0
+Escollera de Propaneros,23/8/2023,15.18,13.0,1.2,7.48,7.7,40.0,19.0
+Polo Petroquímico Dock Sud,23/8/2023,15.0,13.0,1.22,7.47,5.2,30.0,12.0
+Arroyo Sarandí,23/8/2023,15.1,13.0,0.96,7.5,4.7,30.0,14.0
+Costa de Villa Domínico,23/8/2023,14.5,13.0,1.1,7.34,4.4,30.0,8.0
+Arroyo Santo Domingo,23/8/2023,14.53,13.0,2.64,7.53,2.3,32.0,12.0
+Espora 400 m,23/8/2023,12.0,15.0,9.88,7.66,2.0,30.0,19.0
+Náutico 400 m,23/8/2023,12.0,15.0,9.3,7.4,2.0,30.0,22.0
+Pejerrey Club 400 m,23/8/2023,12.0,15.0,8.11,7.55,2.0,30.0,27.0
+Calle 14 y Costa - Salida cloaca,23/8/2023,,,,,,,
+Puerto Trinidad calle 47,23/8/2023,,,,,,,
+Costanera Hudson Calle 63,23/8/2023,,,,,,,
+Boca Cerrada (Res.Nat. Punta Lara),23/8/2023,,12.0,,,3.6,76.0,75.0
+Camping Eva Perón,23/8/2023,12.3,13.0,8.44,10.5,4.0,40.0,50.0
+Toma de agua Club de Pesca,23/8/2023,12.9,13.0,8.57,8.01,2.7,30.0,28.0
+Arroyo El Gato,23/8/2023,13.8,13.0,5.63,7.96,4.5,40.0,55.0
+Ensenada Prefectura Isla Santiago,23/8/2023,12.6,13.0,8.99,8.08,3.1,30.0,32.0
+Balneario Palo Blanco,23/8/2023,,,,,,,
+Diagonal 66 (descarga cloaca),23/8/2023,,,,,,,
+Playa La Bagliardi,23/8/2023,12.2,10.0,6.33,8.7,4.0,76.0,90.0
+Balneario Municipal,23/8/2023,12.0,13.0,9.41,8.67,2.3,66.0,75.0
+Playa La Balandra,23/8/2023,12.0,10.0,8.96,8.09,2.5,67.0,50.0
+Canal Villanueva y Río Luján,14/11/2023,23.0,25.0,4.72,6.57,2.0,30.0,24.0
+Río Lujan y Arroyo Caraguatá,14/11/2023,22.0,25.0,2.62,6.49,2.0,43.0,11.0
+Canal Aliviador y Río Lujan,14/11/2023,26.0,25.0,4.31,6.71,3.0,30.0,13.0
+Río Carapachay y Arroyo Gallo Fiambre,14/11/2023,21.0,25.0,2.98,6.49,2.0,40.0,24.0
+Río Reconquista y Río Lujan,14/11/2023,23.0,25.0,2.01,6.67,4.7,30.0,8.7
+Rio Tigre 100m antes del Rio Luján,14/11/2023,23.0,24.0,2.67,6.62,5.7,53.0,20.0
+Río Lujan y Canal San Fernando,14/11/2023,23.0,24.0,1.95,6.65,4.6,80.0,3.1
+Río Capitán y Río San Antonio,14/11/2023,21.0,24.0,4.15,6.61,2.0,30.0,33.0
+Arroyo Abra Vieja y Santa Rosa,14/11/2023,21.0,24.0,2.94,6.5,2.0,59.0,23.0
+Del Arca,14/11/2023,16.0,13.0,5.4,,3.4,30.0,12.0
+Espigón La Farola,14/11/2023,,,,,,,
+Reserva Ecológica,14/11/2023,22.0,23.0,5.61,,2.0,30.0,14.0
+Playa Espigón de Pacheco,14/11/2023,24.0,23.0,6.69,,2.0,30.0,18.0
+Perú Puente,14/11/2023,23.0,23.0,4.86,,2.7,30.0,6.2
+Reserva Barrio El Ceibo,14/11/2023,23.0,22.0,6.95,6.64,2.1,30.0,13.0
+Puerto de Olivos Espigón,14/11/2023,23.0,22.0,4.88,7.06,2.3,30.0,6.1
+Costa y Melo,14/11/2023,24.0,22.0,5.07,6.5,3.8,30.0,18.0
+Parque de los Niños,14/11/2023,,,,,,,
+Costanera Norte - Espigón Abanico,14/11/2023,,,,,,,
+Club de Pescadores,14/11/2023,,,,,,,
+Reserva Ecológica Costanera Sur - Playita,14/11/2023,,,,,,,
+Escollera de Propaneros,14/11/2023,22.0,21.0,3.33,7.05,17.0,37.0,16.0
+Polo Petroquímico Dock Sud,14/11/2023,23.0,22.0,6.4,7.39,4.6,30.0,30.0
+Arroyo Sarandí,14/11/2023,22.0,22.0,6.3,7.39,3.1,30.0,26.0
+Costa de Villa Domínico,14/11/2023,22.0,22.0,5.94,7.41,3.9,33.0,20.0
+Arroyo Santo Domingo,14/11/2023,22.0,22.0,6.3,7.42,3.1,30.0,25.0
+Espora 400 m,14/11/2023,22.0,22.0,5.55,7.41,3.8,80.0,13.0
+Náutico 400 m,14/11/2023,16.0,22.0,,6.91,3.9,30.0,18.0
+Pejerrey Club 400 m,14/11/2023,16.0,22.0,,6.97,7.3,30.0,11.0
+Calle 14 y Costa - Salida cloaca,14/11/2023,16.0,22.0,,6.63,7.2,32.0,9.3
+Puerto Trinidad calle 47,14/11/2023,,19.0,,,11.0,115.0,95.0
+Costanera Hudson Calle 63,14/11/2023,,21.0,,,12.0,130.0,55.0
+Boca Cerrada (Res.Nat. Punta Lara),14/11/2023,,21.0,,,4.1,61.0,32.0
+Camping Eva Perón,14/11/2023,,,,,2.6,59.0,40.0
+Toma de agua Club de Pesca,14/11/2023,22.0,,8.28,8.11,2.0,30.0,32.0
+Arroyo El Gato,14/11/2023,22.0,,5.48,7.55,2.0,30.0,17.0
+Ensenada Prefectura Isla Santiago,14/11/2023,21.0,,0.2,7.58,5.3,30.0,17.0
+Balneario Palo Blanco,14/11/2023,21.0,,4.76,7.65,8.4,52.0,17.0
+Diagonal 66 (descarga cloaca),14/11/2023,23.0,21.0,7.51,8.02,4.1,65.0,70.0
+Playa La Bagliardi,14/11/2023,24.0,20.0,4.53,7.84,23.0,86.0,50.0
+Balneario Municipal,14/11/2023,20.0,20.0,9.78,8.49,2.2,77.0,34.0
+Playa La Balandra,14/11/2023,20.0,14.0,8.22,8.3,2.0,48.0,110.0
